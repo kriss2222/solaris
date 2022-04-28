@@ -1,0 +1,52 @@
+﻿state,AvgCostElectricCentskWh,avgWattCostState,avgSunHoursState,imgUrl
+Alabama,9.79,2.72,3.5,alabama.svg
+Alaska,22.17,2.41,2,alaska.svg
+Arizona,12.63,2.33,7,arizona.svg
+Arkansas,10.86,2.54,3.5,arkansas.svg
+California,23.22,2.69,5.5,california.svg
+Colorado,13.51,3.13,5,colorado.svg
+Connecticut,20.85,3.06,3,connecticut.svg
+Delaware,12.62,2.62,4,delaware.svg
+Florida,12.2,2.44,4,florida.svg
+Georgia,12.15,2.99,4,georgia.svg
+Hawaii,35.57,2.67,4,hawaii.svg
+Idaho,10.33,2.55,4,idaho.svg
+Illinois,13.53,2.98,3,illinois.svg
+Indiana,13.65,3.25,2.5,indiana.svg
+Iowa,11.55,3.02,4,iowa.svg
+Kansas,12.69,2.59,4,kansas.svg
+Kentucky,12.19,2.34,3,kentucky.svg
+Louisiana,11.56,3.14,4,louisiana.svg
+Maine,17.91,2.64,3,maine.svg
+Maryland,14.08,2.92,3,maryland.svg
+Massachusetts,24.3,3.11,3,massachusetts.svg
+Michigan,17.25,3.1,2.5,michigan.svg
+Minnesota,12.8,3.04,4,minnesota.svg
+Mississippi,11.98,2.64,4,mississippi.svg
+Missouri,10.62,2.59,4,missouri.svg
+Montana,11.14,3.03,4,montana.svg
+Nebraska,10.22,2.83,4.5,nebraska.svg
+Nevada,12.21,2.44,6,nevada.svg
+New Hampshire,21.02,3.06,3,new-hampshire.svg
+New Jersey,16,2.79,3.5,new-jersey.svg
+New Mexico,13.07,3.21,6,new-mexico.svg
+New York,19.5,3.16,3,new-york.svg
+North Carolina,11.29,2.75,4,north-carolina.svg
+North Dakota,9.35,2.42,4,north-dakota.svg
+Ohio,12.78,2.68,2.5,ohio.svg
+Oklahoma,10.73,3.08,4.5,oklahoma.svg
+Oregon,11.16,2.89,3,oregon.svg
+Pennsylvania,14.37,3.01,3,pennsylvania.svg
+Rhode Island,25.11,3.15,3.5,rhode-island.svg
+South Carolina,13.07,2.78,4,south-carolina.svg
+South Dakota,11.53,2.39,4.5,south-dakota.svg
+Tennessee,11.64,2.49,4,tennessee.svg
+Texas,12.55,2.64,4.5,texas.svg
+Utah,10.16,2.63,6,utah.svg
+Vermont,19.6,2.98,3,vermont.svg
+Virginia,11.85,2.85,3.5,virginia.svg
+Washington,10.07,2.64,2.5,washington.svg
+West Virginia,11.82,2.64,3,west-virginia.svg
+Wisconsin,14.22,3.02,3.5,wisconsin.svg
+Wyoming,10.63,2.57,5.5,wyoming.svg
+Washington  DC,13.78,3.41,3.16,washington.svg
